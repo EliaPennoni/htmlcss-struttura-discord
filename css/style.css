@@ -124,4 +124,64 @@
 
 }
 
+.container-black{
+    background-color: black;
+    width:100% ;
+    margin: 0 auto;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column ;
+    justify-content: space-between;
+}
+
+.last-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+
+}
+
+.peach-box{
+    height: 250px;
+    width: 200px;
+    background-color: peachpuff;
+}
+
+.box-1{
+    height: 250px;
+    width: 100px;
+    background-color: rgb(0, 255, 234);
+}
+
+.line{
+    
+    border: 5 px solid white;
+    margin: 50px;
+    width: 100%;
+    
+}
+
+.closer{
+    background-color: cadetblue;
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.closer > .push, .send{
+    width: 50px;
+    background-color: white;
+    height: 30px;
+    
+
+}
+
+
 
