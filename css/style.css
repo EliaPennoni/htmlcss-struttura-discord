@@ -1,4 +1,4 @@
-/* rest */
+/* reset */
 *{
     margin: 0%;
     padding: 0%;
@@ -14,7 +14,7 @@
     
 }
 .container-top{
-    background-color: cadetblue;
+    background-color: #ADD8E6;
     height: 100px;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@
 }
 
 .container-top > .logo-nav, .link-nav, .login-nav{
-    background-color: yellow;
+    background-color: #DAA520;
     height: 50px;
     text-align: center;
     line-height: 50px;
@@ -58,7 +58,7 @@
 .purple-box{
     width: 500px;
     height: 250px;
-    background-color: purple;
+    background-color:#EE82EE;
     border: 2px dashed black;
 }
 
@@ -79,7 +79,7 @@
 }
 
 .blue-box{
-    background-color: aqua;
+    background-color: #1E90FF;
     width: 400px;
     height: 250px;
     border: 2px dashed black;
@@ -87,7 +87,7 @@
 }
 
 .pink-box{
-    background-color: pink;
+    background-color: #FFC0CB;
     border: 2px dashed black;
     width: 200px;
     height: 250px;
@@ -148,13 +148,15 @@
 .peach-box{
     height: 250px;
     width: 200px;
-    background-color: peachpuff;
+    background-color: #F08080;
+    border: 2px dashed black;
 }
 
 .box-1{
     height: 250px;
     width: 100px;
-    background-color: rgb(0, 255, 234);
+    background-color: #20B2AA;
+    border: 2px dashed white;
 }
 
 .line{
@@ -166,7 +168,7 @@
 }
 
 .closer{
-    background-color: cadetblue;
+    background-color:#7FFFD4;
     height: 50px;
     width: 600px;
     display: flex;
@@ -179,6 +181,10 @@
     width: 50px;
     background-color: white;
     height: 30px;
+    border: 2px dashed black;
+    text-align: center;
+    line-height:30px ;
+
     
 
 }
